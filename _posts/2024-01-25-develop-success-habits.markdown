@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "培养成功习惯：从失败中学习【已完成】"
+title:  "培养成功习惯：从失败中学习"
 date:   2024-01-25 15:04:02 +0800
 categories: jekyll update
 ---
